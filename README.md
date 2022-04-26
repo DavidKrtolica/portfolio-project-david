@@ -1,2 +1,2 @@
-# NodeJsA
-This is my GitHub repo for NodeJsA 4th semester class exercises and tasks.
+# Personal Portfolio Project - NodeJS
+This is my GitHub repository containing code for my personal portfolio project done in NodeJS - still in the making...
